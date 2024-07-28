@@ -1,0 +1,19 @@
+h2,h3,p{
+    text-align: center;
+    color:black;
+}
+body{
+    margin-top: 18%;
+    border: 2px solid black ;
+    border-style: dashed;
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190619/ourmid/pngtree-fashion-simple-dark-green-geometric-resume-template-background-material-image_132931.jpg");
+}
+ul{
+    padding-left: 42%;
+}
+li{
+    color:blue;
+}
+dd,p{
+    color: blueviolet;
+}
